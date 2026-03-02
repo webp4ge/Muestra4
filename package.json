@@ -1,7 +1,7 @@
 {
-  "name": "Leadmark",
-  "version": "1.5.0",
-  "description": "An elegant responsive bootstrap 4.x theme.",
+  "name": "Muestra",
+  "version": "1.0",
+  "description": "Muestra responsive",
   "main": "gulpfile.js",
   "author": "DevCRUD",
   "scripts": {
