@@ -11749,23 +11749,6 @@ textarea.form-control {
   visibility: visible;
 }
 
-.map-responsive {
-    overflow: hidden;
-    padding-bottom: 56.25%; /* Esto crea una proporción de 16:9 */
-    position: relative;
-    height: 0;
-    border: 2px solid #d4a843; /* Opcional: Un toque dorado para tu estilo luxury */
-    border-radius: 8px; /* Opcional: bordes suavizados */
-}
-
-.map-responsive iframe {
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-}
-
 .map-responsive iframe {
     filter: grayscale(100%) invert(92%) contrast(83%);
     /* Esto hará que el mapa sea grisáceo/claro, combinando mejor con el fondo blanco */
