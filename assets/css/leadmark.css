@@ -11467,6 +11467,9 @@ textarea.form-control {
 .header .overlay .title {
   font-size: calc(30px + (70 - 30) * ((100vw - 320px) / (1200 - 320)));
   font-weight: bold;
+  white-space: nowrap;
+  display: inline-block;
+  max-width: 95%;
 }
 
 .header .shape svg {
@@ -11490,6 +11493,15 @@ textarea.form-control {
 @media (max-width: 767.98px) {
   .header .shape svg {
     bottom: 0;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .header .overlay .title {
+    font-size: 28px;
+    letter-spacing: 2px;
+    word-spacing: normal;
+    padding: 0 10px;
   }
 }
 
