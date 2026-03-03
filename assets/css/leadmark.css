@@ -11456,7 +11456,7 @@ textarea.form-control {
 }
 
 .header .overlay .subtitle {
-  font-size: calc(9px + (18 - 13) * ((100vw - 320px) / (1200 - 320)));
+  font-size: calc(7px + (18 - 13) * ((100vw - 320px) / (1200 - 320)));
   font-weight: 400;
   margin-bottom: 0;
   letter-spacing: 8px;
@@ -11466,7 +11466,7 @@ textarea.form-control {
 }
 
 .header .overlay .title {
-  font-size: calc(14px + (70 - 30) * ((100vw - 320px) / (1200 - 320)));
+  font-size: calc(12px + (70 - 30) * ((100vw - 320px) / (1200 - 320)));
   font-weight: bold;
   white-space: nowrap;
   display: inline-block;
