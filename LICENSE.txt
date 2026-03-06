@@ -1,5 +1,0 @@
-Licencia copyleft
-
-Copyright (c) 2026 Diego F
-
-Por la presente, no se concede permiso a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software") para utilizarlo, incluyendo, entre otros, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir que las personas a quienes se les proporciona el Software lo hagan, sujeto a las siguientes condiciones:
